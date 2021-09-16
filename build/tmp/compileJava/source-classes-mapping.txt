@@ -1,0 +1,19 @@
+io/confluent/demo/Rating.java
+ io.confluent.demo.Rating
+ io.confluent.demo.Rating$1
+ io.confluent.demo.Rating$Builder
+io/confluent/developer/ListSerializer.java
+ io.confluent.developer.ListSerializer
+io/confluent/developer/ListSerde.java
+ io.confluent.developer.ListSerde
+io/confluent/demo/CountAndSum.java
+ io.confluent.demo.CountAndSum
+ io.confluent.demo.CountAndSum$1
+ io.confluent.demo.CountAndSum$Builder
+io/confluent/developer/ListDeserializer.java
+ io.confluent.developer.ListDeserializer
+io/confluent/developer/RunningAverage.java
+ io.confluent.developer.RunningAverage
+ io.confluent.developer.RunningAverage$1
+ io.confluent.developer.RunningAverage$2
+ io.confluent.developer.RunningAverage$3
