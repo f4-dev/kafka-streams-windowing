@@ -19,9 +19,12 @@ Example of buffering events on a windowing function
 docker-compose up -d
 ```
 
-### 2. Compile and start the Kafka Stream processor
+### 2. Setup, compile and start the Kafka stream processor
+
 ```
+gradle wrapper
 ./gradlew build
+./gradlew shadowJar
 java -Dconfig.file=configuration/dev.properties -jar build/libs/aggregating-average-standalone-0.0.1.jar
 ```
 
